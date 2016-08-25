@@ -8,4 +8,4 @@
 
 To push the current branch and set the remote as upstream, use
 
-git push<b> --set-upstream </b>https://github.com/gittið-þitt.git master
+git push --set -upstream https://github.com/gittið-þitt.git master
