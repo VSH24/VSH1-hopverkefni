@@ -1,2 +1,2 @@
 # verkefni-1
-Þetta er sýnishorn af lokaverknfi VSH1A
+Þetta er sýnishorn af lokavereknfi VSH1A
