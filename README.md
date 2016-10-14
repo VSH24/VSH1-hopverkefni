@@ -1,4 +1,4 @@
-# verkefni-1
+# VSH1 Hópverkefni
 
 <a href ="http://tsuts.tskoli.is/2t/gjg/" title="lokaverkefni VSH1A">Kynningarvefur VSH1A á tsuts.skoli.is</a>
 
