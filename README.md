@@ -9,6 +9,7 @@
   <li>Sett verkáætlun á <i> github- issues - milestones</i></li>
   <li>Búið til ýtarlega greinargerð í Wiki skránni</li>
   <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki">Verklýsing hópverkefnisins</a> er í Wiki skrá VSH24</li>
+  <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Git-og-Github"> Upplýsingar um Github</a></li>
  </ol>
 
 ###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
