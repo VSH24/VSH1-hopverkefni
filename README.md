@@ -12,4 +12,4 @@
   <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki">Verklýsing hópverkefnisins</a> er í Wiki skrá VSH24</li>
  </ol>
 
-###Skilið vefslóð að Github reikningnum á Innu ykkar STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
+###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
