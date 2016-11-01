@@ -1,4 +1,4 @@
-# VSH1 Hópverkefni
+# VSH1 dreifnám Hópverkefni
 ## Unnið með Github útgáfustjórnun
 ### Á Github geta nemendur:
 <ol>
