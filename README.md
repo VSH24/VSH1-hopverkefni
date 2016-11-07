@@ -7,6 +7,6 @@
   <li> Notendur geta breytt og bætt við efni eins og stofnandinn. </li>
   <li>Búið til ýtarlega greinargerð í Wiki skránni</a></li>
   <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki">Verklýsing hópverkefnisins</a> er í Wiki skránni</li>
-  <li>Sett öll vinnugögn á <i> github > upload files</i></li>
+  <li>Sett öll vinnugögn í geymsluna <i> github > upload files</i></li>
  </ol>
 
