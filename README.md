@@ -1,5 +1,6 @@
 # VSH1 dreifnám, hópverkefni
 ## Unnið með Github útgáfustjórnun
+Nemendur í dreifnámi deila með sér þessari geymslu sem kennari dreifnámsins heldur utanum.  Hér eiga nemendur að skila inn sínu vinnuframlagi.
 ### Á Github geta nemendur:
 <ol>
   <li>Stofnað reikning* e. <i>"account"</i>
