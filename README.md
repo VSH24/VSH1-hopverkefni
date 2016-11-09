@@ -32,7 +32,7 @@ Setjið inn heimildaskrá á wikisíðuna.
 </li><li>Vefsíðan á að vera á íslensku eða á móðurmáli nemenda
 </li><li>Setjið tengil á Github sem vísar á vefsíðuna.
 </li></ul>
-Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/H%C3%B3pverkefni-VSH1-hausti%C3%B0-2016">hópverkefni VSH1 2016</a>
+Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a>
 
 ## Unnið með Github útgáfustjórnun
 ### Á Github geta nemendur:
@@ -41,6 +41,6 @@ Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.c
   <li> Stofnandi geymslunnar getur bætt við notendum (<i>contributors</i>) með sömu réttindum og hann sjálfur hefur á geymslunni . </li>
   <li> Notendur geta breytt og bætt við efni eins og stofnandinn. </li>
   <li>Búið til ýtarlega greinargerð í Wiki skránni</a></li>
-  <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki">Nánari upplýsingar eru í Wiki skránni</a></li>
+  <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Allt-um-Git-og-Github">Nánari upplýsingar eru í Wiki skránni</a></li>
   <li>Sett öll vinnugögn í geymsluna <i> github > upload files</i></li>
  </ol>
