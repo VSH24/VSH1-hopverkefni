@@ -29,8 +29,8 @@ Setjið inn heimildaskrá á wikisíðuna.
      <li>Vefsíða er búin til um tölvueikinn og hún birt á tsuts.tskoli.is. 
 </li><li>Vefsíðan á að vera á íslensku eða á móðurmáli nemenda
 </li><li>Setjið tengil á Github sem vísar á vefsíðuna.
-</li><li>Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a>
-</li></ul>
+</li><li>Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a></li>
+</ul>
 ##Námsmat 20% af heildareinkunn
 ###12% GitHUb 
 <ul><li> 8%  Ritgerð
