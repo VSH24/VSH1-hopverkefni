@@ -1,7 +1,5 @@
 # Verkefnalýsing Hópverkefnis 
-
 ## Saga tölvuleikja
-
 Nemendur vinna saman í hóp (2-3) og velja sér tölvuleik til að fjalla um.  
 Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 <ul>
@@ -33,8 +31,15 @@ Setjið inn heimildaskrá á wikisíðuna.
 </li><li>Setjið tengil á Github sem vísar á vefsíðuna.
 </li></ul>
 Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a>
+##Námsmat 20% af heildareinkunn
+###12% GitHUb 
+<ul><li> 8%  Ritgerð
+</li><li>2% Verkefnaskipting 
+</li><li>2% Greinargerð um samstarf og vinnuframlag 
+</ul>
+###8% Vefsíða á tsuts.tskoli.is  
+<i>Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum Github reikningi. </i>
 
-## Unnið með Github útgáfustjórnun
 ### Á Github geta nemendur:
 <ol>
   <li>Stofnað geymslu e. <i>"repository"</i> um verkefni</li>
