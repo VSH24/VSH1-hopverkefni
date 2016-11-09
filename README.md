@@ -33,7 +33,7 @@ Setjið inn heimildaskrá á wikisíðuna.
 </ul>
 ##Námsmat 20% af heildareinkunn
 ####5%  Viðvera og þáttaka í hópverkefni 1
-####12% GitHUb 
+####10% GitHUb 
 <ul><li> 8% Ritgerð
 </li><li>2% Greinargerð um samstarf og vinnuframlag 
 </ul>
