@@ -32,12 +32,12 @@ Setjið inn heimildaskrá á wikisíðuna.
 </li><li>Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a></li>
 </ul>
 ##Námsmat 20% af heildareinkunn
+###5%  Viðvera og þáttaka í hópverkefni 1
 ###12% GitHUb 
-<ul><li> 8%  Ritgerð
-</li><li>2% Verkefnaskipting 
+<ul><li> 8% Ritgerð
 </li><li>2% Greinargerð um samstarf og vinnuframlag 
 </ul>
-###8% Vefsíða á tsuts.tskoli.is  
+###5% Vefsíða á tsuts.tskoli.is  
 <i>Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum Github reikningi. </i>
 
 ### Á Github geta nemendur:
