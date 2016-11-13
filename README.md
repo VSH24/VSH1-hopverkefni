@@ -15,8 +15,8 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
 
 ##Námsmat 20% af heildareinkunn
 ####10% GitHUb - Ritgerð
-####5% Vefsíða á tsuts.tskoli.is/
-<i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta set upp Wiki síðu hér.  </i>
+####10% Vefsíða á tsuts.tskoli.is/
+<i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta skilað vef hér á verkefnasíðuna. Sjá nánar </i>
 
 ## Unnið með Github útgáfustjórnun
 ### Á Github geta nemendur:
