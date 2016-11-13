@@ -13,6 +13,11 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
 </ol>
 ###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
 
+##Námsmat 20% af heildareinkunn
+####10% GitHUb - Ritgerð
+####5% Vefsíða á tsuts.tskoli.is/
+<i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta set upp Wiki síðu hér.  </i>
+
 ## Unnið með Github útgáfustjórnun
 ### Á Github geta nemendur:
 <ol>
