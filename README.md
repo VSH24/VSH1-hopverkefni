@@ -1,6 +1,6 @@
 # VSH1 dreifnám, hópverkefni
 Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um tölvuleik(i).  Um er að ræða sameiginlega ritgerð sem sett er hér á Github VSH1 hópverkefni geymsluna (e. repository). 
-Í ritgerðinni (wikisíða) verður að koma fram eftirtalinn atriði:
+Í ritgerðinni verður að koma fram eftirtalinn atriði:
 <ol>
   <li>Hvaða tegund af tölvuleik er um að ræða
   <li>Hvenær var hann búinn til 
@@ -10,7 +10,8 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
   <li>Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn
   <li>Heimildaskrá
   <li>Ritgerðin á að vera á íslensku eða á móðurmáli nemenda.
-  <li>Ritgerðin á að vera hér í Wiki skránni</li>
+  <li><a href="https://github.com/vsh22/VSH1-dreifnam-hopverkefni/wiki">Ritgerðin á að vera hér í Wiki skránni</a></li>
+  <li> Leiðbeiningar um hvernig á að skila verkefninu eru hér í möppunni "leiðbeningar/skil á verkefnum.pdf"
 </ol>
 ###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
 
