@@ -14,10 +14,12 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
 ###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
 
 ##Námsmat 20% af heildareinkunn
-####10% GitHUb - Ritgerð
-####10% Vefsíða á tsuts.tskoli.is/
-<i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta skilað vef hér á verkefnasíðuna. Sjá nánar </i>
-
+  <ul>
+  <li>10% GitHUb - Ritgerð</li>
+    <li>10% Vefsíða á tsuts.tskoli.is/<br>
+    <i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta skilað vef hér á verkefnasíðuna. Sjá nánar </i>
+    </li>
+  </ul>
 ## Unnið með Github útgáfustjórnun
 ### Á Github geta nemendur:
 <ol>
@@ -27,8 +29,7 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
   <li>Allir nemendur dreifnámsins sem eru í VSH1 geta deilt verkefnum á þessa geymslu.</li>
   <li>Sett vinnugögn á <i> github- upload files</i></li>
   <li>Búið til ýtarlega greinargerð í Wiki skránni</li>
-  <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki">Verklýsing hópverkefnisins</a> er í Wiki skrá VSH24</li>
-  <li><a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Git-og-Github"> Upplýsingar um Github</a></li>
+  <li><a href="https://github.com/VSH22/VSH1-hopverkefni/wiki/Git-og-Github">Upplýsingar um Github</a></li>
  </ol>
 
 
