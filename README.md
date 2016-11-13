@@ -19,7 +19,7 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
   <ul>
   <li>10% GitHUb - Ritgerð</li>
     <li>10% Vefsíða á tsuts.tskoli.is/<br>
-    <i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta skilað vef hér á verkefnasíðuna. Sjá nánar </i>
+    <i>Þeir sem ekki hafa komsist í samband við miðlarann okkar tsuts.tskoli.is geta skilað vef hér á verkefnasíðuna. Sjá nánar í leiðbeingar hér að ofan.</i>
     </li>
   </ul>
 
