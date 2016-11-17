@@ -46,7 +46,8 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 ####5%  Viðvera og þáttaka í hópverkefni 1
 ####10% GitHUb 
 <ul><li> 8% Ritgerð
-</li><li>2% <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Greinarger%C3%B0"> Greinargerð um samstarf og vinnuframlag </a></li>
+</li><li>1% Wiki skrá
+</li><li>1% <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Greinarger%C3%B0"> Greinargerð um samstarf og vinnuframlag </a></li>
 </ul>
 ####5% Vefsíða á tsuts.tskoli.is  
 
