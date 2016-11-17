@@ -5,17 +5,22 @@ Nemendur vinna saman í hóp (2-3) og velja sér tölvuleik til að fjalla um.
 Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 <ul>
 	<li>Viðfangsefni valið
-		<ol style="list-style-type: lower-alpha;">
+		<ol>
 			<li>Github geymsla (<i>e. Repository</i>) stofnuð utanum verkefnið</li>
-			<li>Samstarfsaðili tengdur við geymsluna (Collaborator). <a href="https://github.com/VSH24/VSH1-hopverkefni/tree/master/lei%C3%B0beiningar"> Sjá samstarf á GitHub (pdf)</a>.
-			<li>Verkefnaáætlun gerð</li>
-			<li>Tímaáætlun gerð</li>
-			<li>Verkefnaskipting gerð</li>
+			<li>Samstarfsaðili tengdur við geymsluna (Collaborator). <a href="https://github.com/VSH24/VSH1-hopverkefni/tree/master/lei%C3%B0beiningar"> Sjá samstarf á GitHub (pdf)</a>.</li>
+			<li>Setjið WIKI síðu á geymsluna þar sem eftrifarandi atriði koma fram:
+				<ol style="list-style-type: lower-alpha;">	
+					<li>Verkefnaáætlun gerð</li>
+					<li>Tímaáætlun gerð</li>
+					<li>Verkefnaskipting gerð</li>
+					<li>Heimildaskrá</li>
+				</ol>
+			</li>
 		</ol>
 </ul>
 
-Öll skipulagning og undirbúningsvinna á að birta á geymslunni. 
-Setjið inn heimildaskrá á wikisíðuna.
+####Öll skipulagning og undirbúningsvinna á að birta á geymslunni. 
+
 Í ritgerðinni verður að koma fram eftirtalinn atriði:
 <ol>
 	<li>Hvaða tegund af tölvuleik er um að ræða</li>
