@@ -6,11 +6,11 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 	
 <ol>
 	<li>Viðfangsefni valið
-	<li>Github geymsla (<i>e. Repository</i>) stofnuð utanum verkefnið</li>
-	<li>Samstarfsaðili tengdur við geymsluna (Collaborator). <a href="https://github.com/VSH24/VSH1-hopverkefni/tree/master/lei%C3%B0beiningar"> Sjá samstarf á GitHub (pdf)</a>.</li>
+	<li>Github geymsla (<i>e. Repository</i>) stofnuð utan um verkefnið</li>
+	<li>Samstarfsaðilar tengdir við geymsluna (Collaborators). <a href="https://github.com/VSH24/VSH1-hopverkefni/tree/master/lei%C3%B0beiningar"> Sjá samstarf á GitHub (pdf)</a>.</li>
 	<li>Ritgerðin er skráð í README.md skjalið</li>
 	<li>Ritgerðin á að vera á íslensku eða á móðurmáli nemenda</li>
-	<li>Í ritgerðinni verður að koma fram eftirtalinn atriði:
+	<li>Í ritgerðinni verður að koma fram eftirtalin atriði:
 		<ol>
 			<li>Hvaða tegund af tölvuleik er um að ræða</li>
 			<li>Hvenær var hann búinn til </li>
@@ -49,7 +49,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 </li><li>2% <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Greinarger%C3%B0"> Greinargerð um samstarf og vinnuframlag </a></li>
 </ul>
 ####5% Vefsíða á tsuts.tskoli.is  
-<i>Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum Github reikningi. </i>
+
 ### Á Github geta nemendur:
 *	Sett öll vinnugögn í geymsluna <i> github > upload files</i>
 *	<a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Allt-um-Git-og-Github">Nánari upplýsingar eru í Wiki skránni</a></li>
