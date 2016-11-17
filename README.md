@@ -44,7 +44,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 ####Öll undirbúningsvinnugögn á að setja í geymsluna. 
 ##Námsmat 20% af heildareinkunn
 ####5%  Viðvera og þáttaka í hópverkefni 1
-####10% GitHUb 
+####10% GitHub 
 <ul><li> 8% Ritgerð
 </li><li>1% Wiki skrá
 </li><li>1% <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Greinarger%C3%B0"> Greinargerð um samstarf og vinnuframlag </a></li>
