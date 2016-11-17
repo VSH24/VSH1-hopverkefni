@@ -7,7 +7,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 	<li>Viðfangsefni valið
 		<ol style="list-style-type: lower-alpha;">
 			<li>Github geymsla (<i>e. Repository</i>) stofnuð utanum verkefnið</li>
-			<li>Samstarfsaðili tengdur við geymsluna (Collaborator). Leiðbeiningar hér.
+			<li>Samstarfsaðili tengdur við geymsluna (Collaborator). <a href="https://github.com/VSH24/VSH1-hopverkefni/tree/master/lei%C3%B0beiningar"> Sjá samstarf á GitHub (pdf)</a>.
 			<li>Verkefnaáætlun gerð</li>
 			<li>Tímaáætlun gerð</li>
 			<li>Verkefnaskipting gerð</li>
