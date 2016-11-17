@@ -36,7 +36,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 	<li>Vefsíða er búin til um tölvueikinn og hún birt á tsuts.tskoli.is/2t/...
 		<ul>
 			<li>Vefsíðan er aðallega ritgerðin með myndum og kvikmyndum (i-frame á youtube).
-			<li>Tengill á vefsíðuna tsuts.tskoli.is á að vera í README.md</li>
+			<li>Tengill á vefsíðuna (tsuts.tskoli.is/2t/...) á að vera í README.md</li>
 		</ul> 
 	</li>
 	<li>Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a></li>
