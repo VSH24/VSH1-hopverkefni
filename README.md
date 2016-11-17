@@ -16,6 +16,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 					<li>Heimildaskrá</li>
 				</ol>
 			</li>
+			<li>Tengill á vefsíðu á tsuts.tskoli.is á að vera í README.md</li>
 		</ol>
 </ul>
 
