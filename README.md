@@ -41,12 +41,12 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 	</li>
 	<li>Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a></li>
 </ol>
-####Öll undirbúningsvinnugögn á að setja á geymsluna. 
+####Öll undirbúningsvinnugögn á að setja í geymsluna. 
 ##Námsmat 20% af heildareinkunn
 ####5%  Viðvera og þáttaka í hópverkefni 1
 ####10% GitHUb 
 <ul><li> 8% Ritgerð
-</li><li>2% Greinargerð um samstarf og vinnuframlag 
+</li><li>2% <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Greinarger%C3%B0"> Greinargerð um samstarf og vinnuframlag </a></li>
 </ul>
 ####5% Vefsíða á tsuts.tskoli.is  
 <i>Ef samstarf eða vinnuframlag er ekki eins og til var ætlast þá geta nemendur komið með útskýringar hver fyrir sig á sínum Github reikningi. </i>
