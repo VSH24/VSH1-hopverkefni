@@ -1,5 +1,5 @@
 # Verkefnalýsing Hópverkefnis 
-####Þegar hópur hefur stofnað sameiginlega geymslu (repo) á GitHub<br> þá á að skila tengli á INNU sem vísar á geymsluna (strax í dag!)
+####Þegar hópur hefur stofnað sameiginlega geymslu (repo) á GitHub<br> þá á að skila tengli í INNU, hópverkfni sem vísar á geymsluna (við fyrsta tækifæri!)
 ## Saga tölvuleikja
 Nemendur vinna saman í hóp (2-3) og velja sér tölvuleik til að fjalla um.  
 Hóparnir halda utanum verkefnið með Github útgáfustjórnun
