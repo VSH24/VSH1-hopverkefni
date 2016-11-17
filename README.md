@@ -20,7 +20,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 			<li>Hverjar eru framtíðarhorfur leiksins eða hvenær var hætt að framleiða leikinn</li>
 		</ol>
 	</li>
-	<li>Setjið WIKI síðu á geymsluna þar sem eftrifarandi atriði koma fram:
+	<li>Setjið WIKI síðu í geymsluna þar sem eftrifarandi atriði koma fram:
 		<ol>	
 			<li>Verkefnaáætlun
 				<ul>
