@@ -21,7 +21,7 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 		</ol>
 	</li>
 	<li>Setjið WIKI síðu á geymsluna þar sem eftrifarandi atriði koma fram:
-		<ol style="list-style-type: lower-alpha;">	
+		<ol>	
 			<li>Verkefnaáætlun
 				<ul>
 					<li><b>Verkefnaskipting.</b> Hver gerir hvað</li>
@@ -33,9 +33,12 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 			<li>Heimildaskrá</li>
 		</ol>
 	</li>
-	<li>Vefsíða er búin til um tölvueikinn og hún birt á tsuts.tskoli.is/2t/...</li> 
-	<li>Vefsíðan er aðallega ritgerðin með myndum og kvikmyndum (i-frame á youtube).
-	<li>Tengill á vefsíðu á tsuts.tskoli.is á að vera í README.md</li>
+	<li>Vefsíða er búin til um tölvueikinn og hún birt á tsuts.tskoli.is/2t/...
+		<ul>
+			<li>Vefsíðan er aðallega ritgerðin með myndum og kvikmyndum (i-frame á youtube).
+			<li>Tengill á vefsíðuna tsuts.tskoli.is á að vera í README.md</li>
+		</ul> 
+	</li>
 	<li>Tenglar á vefsíður hópverkefna verða settir hér: <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/">hópverkefni VSH1 2016</a></li>
 </ol>
 ####Öll undirbúningsvinnugögn á að setja á geymsluna. 
