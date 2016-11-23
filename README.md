@@ -1,4 +1,6 @@
 # VSH1 dreifnám, hópverkefni
+###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
+
 Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um tölvuleik(i).  Um er að ræða sameiginlega ritgerð sem sett er hér á Github VSH1 hópverkefni geymsluna (e. repository). 
 Í ritgerðinni verður að koma fram eftirtalinn atriði:
 <ol>
@@ -13,7 +15,6 @@ Nemendur í VSH1 dreifnámi  eiga að skrifa stutta ritgerð sem fjallar um töl
   <li><a href="https://github.com/vsh22/VSH1-dreifnam-hopverkefni/wiki">Ritgerðin á að vera hér í Wiki skránni</a></li>
   <li>Leiðbeiningar um hvernig á að skila verkefninu eru hér í möppunni "leiðbeiningar/skil á verkefnum.pdf"
 </ol>
-###Skilið vefslóð að Github reikningnum ykkar á Innu STRAX svo hægt sé að skrá ykkur sem notendur á VSH1 hópverkefnið!
 
 ##Námsmat 20% af heildareinkunn
   <ul>
