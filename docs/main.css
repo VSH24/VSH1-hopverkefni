@@ -68,25 +68,6 @@
     font-style: normal;
 }
 
-
-/* -lynda.com base template styles
- based partially from normalize.css v3.0.0 | MIT License | git.io/normalize 
- and includes micro-clearfix by Nicolas Gallagher http://nicolasgallagher.com/micro-clearfix-hack/
- */
- 
-/* color palette*/
-/*
-dark blue: rgb(34,33,48), #222130;
-med blue: rgb(4,99,128), #046380
-dark gray: rgb(70,77,87), #464D57;
-burnt umber: rgb(127,64,45), #7F402D;
-orange: rgb(237,137,23), #ED8917;
-accent orange: rgb(255,182,101), #FFB665;
-accent green: rgb(212,232,211), #D4E8D3;
-off white: rgb(255,252,251), #FFFCFB;
-*/
-
-
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -113,17 +94,6 @@ article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
   display: block;
 }
 
-/* Correct `inline-block` display not defined in IE 8/9. */
-audio,canvas,progress,video {
-  display: inline-block;
-  vertical-align: baseline; 
-}
-
-/*Prevent modern browsers from displaying `audio` without controls. Remove excess height in iOS 5 devices.*/
-audio:not([controls]) {
-  display: none;
-  height: 0;
-}
 /* control basic margins */
 h1,h2,h3,h4,h5,h6,p {
 	margin-top: 0;
