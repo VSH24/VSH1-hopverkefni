@@ -52,5 +52,6 @@ Hóparnir halda utanum verkefnið með Github útgáfustjórnun
 </li><li>1% <a href="https://github.com/VSH24/VSH1-hopverkefni/wiki/Greinarger%C3%B0"> Greinargerð um samstarf og vinnuframlag </a></li>
 </ul>
 ####5% Vefsíða á tsuts.tskoli.is  
+Vefsíðuna má birta á GitHub geymslunni sbr. https://vsh24.github.io/VSH1-hopverkefni/ 
 	
 
